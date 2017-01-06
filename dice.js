@@ -4,6 +4,8 @@
 // command is then turned into results
 // results and comment are sent back to index.js for presentation 
 
+// see test
+
 var _ = require("lodash");
 var Lexer = require("lex");
 var Parser = require("./parse");
